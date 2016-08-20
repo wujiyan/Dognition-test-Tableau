@@ -6,3 +6,5 @@ Dognition has provided us with a dataset to analyze in order to develop recommen
 
 Dognition.twb: twb file of data exploration
 
+Presentation video: https://www.youtube.com/watch?v=UOSKUQuwG-k
+
